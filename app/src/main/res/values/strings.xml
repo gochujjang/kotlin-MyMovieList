@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyMovieList</string>
+    <string name="movies_name">Movies Name</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="genre">Genre</string>
+    <string name="duration">Duration</string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string name="stars">Stars</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="share">Share</string>
+    <string name="content">Content</string>
+    <string name="about">About</string>
+    <string name="name">REHAN KURNIA HIDAYAT</string>
+    <string name="email">rehankurnia@gmail.com</string>
+
+
+</resources>
